@@ -1,0 +1,4 @@
+PYTHON 3.X +
+pip3 install Pygame
+
+Other Libraries used are : PriorityQueue (In-built python library) which is imported from Queue
