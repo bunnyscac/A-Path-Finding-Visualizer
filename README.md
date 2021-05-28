@@ -3,9 +3,9 @@
 Info:
 
 A* Path Finding Algorithm is an algorithm that let's you find the shortest and the most efficient path from it's starting point to its desired destination.
-Here in this Program we point out the starting positon that is colored with yellow and the destination position that is colored with cyan or sky blue whatever. And after you've marked the start and the end points on the grid right click your mouse and create the walls/obstacles between the start and end point in order to test the algorithm.
+Here in this Program we point out the starting positon that is colored with yellow and the destination position that is colored with cyan or sky blue whatever. And after you've marked the start and the end points on the grid `LEFT` click your mouse and create the walls/obstacles between the start and end point in order to test the algorithm.
 
-### Remember: Right Click : Creating the obstacles | Left Click to remove them
+### Remember: LEFT Click : Creating the obstacles | RIGHT Click to remove them
 
 After you're done with creating walls and obstacles between the two points, PRESS `SPACE BAR KEY` in order to run the algorithm.
 
@@ -16,6 +16,7 @@ You can see as the range touches the end point it automatically creates the shor
 - TKinter
 - Pygame
 
-# SCREENSHOT OF THE WORKING ALGORITHM
+# LIVE WORKING OF THE WORKING ALGORITHM
 
-![Screenshot 2021-05-28 at 9 35 24 AM](https://user-images.githubusercontent.com/58136275/119928689-b60ae180-bf99-11eb-9128-6cc476f0e1ab.png)
+![algo](https://user-images.githubusercontent.com/58136275/119929234-c2436e80-bf9a-11eb-8620-5f3ccca3889b.gif)
+
