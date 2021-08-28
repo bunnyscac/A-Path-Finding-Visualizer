@@ -16,7 +16,7 @@ You can see as the range touches the end point it automatically creates the shor
 - TKinter
 - Pygame
 
-# LIVE WORKING OF THE WORKING ALGORITHM
+# LIVE VISUAL WORKING OF THE ALGORITHM
 
 ![algo](https://user-images.githubusercontent.com/58136275/119929234-c2436e80-bf9a-11eb-8620-5f3ccca3889b.gif)
 
